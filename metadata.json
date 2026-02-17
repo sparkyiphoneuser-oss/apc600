@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "SparkYDEV"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "APC 600 UPS status monitor",
+        "Icon": "battery",
+        "Id": "org.kde.apc600",
+        "License": "GPL",
+        "Name": "APC UPS Monitor",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "Plasma/Applet"
+}
